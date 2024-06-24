@@ -1,6 +1,6 @@
 # Operating-Systems-csc227
 
-Student Names:
+Team:
 - Rana Alsayyari
 - Bashair Alsadhan
 - Rama Alshebel 
